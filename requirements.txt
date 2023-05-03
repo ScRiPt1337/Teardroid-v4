@@ -1,0 +1,5 @@
+pyfiglet
+tqdm
+pydantic
+colorama
+emoji
