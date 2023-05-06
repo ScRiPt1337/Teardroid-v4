@@ -122,7 +122,7 @@ $ python Teardroid.py -b your_app_name
 ### Dashboard
 
 - visit : https://{your server url}/v4/overview
-- defualt username/password is : admin/admin
+- defualt username/password is : botol/baba
 
 ### IMPORTANT NOTICE
 
